@@ -1,0 +1,41 @@
+body
+{
+	background: lightblue;
+}
+
+	.logindiv1 , .logindiv2
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#scoreDisplay {
+	font-size: 20px;
+	margin-left: 10px;
+	margin-top: 10px;
+}
+
+#playerName1 , #playerName2
+{
+	display: inline-block;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
